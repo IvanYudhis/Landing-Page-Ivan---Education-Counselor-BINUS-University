@@ -1,0 +1,6 @@
+# Semua domain alias dipaksa menuju domain utama, supaya alamat yang tampil
+# di address bar selalu sama dengan yang tercetak di QR Code.
+# Tanda "!" membuat aturan ini tetap berlaku walau file-nya sebenarnya ada.
+https://ivanyudhis.id/*       https://educationcounselor.ivanyudhis.id/:splat  301!
+https://www.ivanyudhis.id/*   https://educationcounselor.ivanyudhis.id/:splat  301!
+https://ec.ivanyudhis.id/*    https://educationcounselor.ivanyudhis.id/:splat  301!

@@ -1,0 +1,15 @@
+{
+  "name": "Ivan Yudhistira | Education Counselor of BINUS UNIVERSITY",
+  "short_name": "Ivan Yudhistira",
+  "description": "Info program studi, beasiswa, biaya kuliah, dan cara mudah gabung BINUS University.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#12205b",
+  "icons": [
+    { "src": "/assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
